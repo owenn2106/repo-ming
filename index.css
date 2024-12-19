@@ -1,0 +1,29 @@
+/* h1 {
+  color: red;
+} */
+
+.cicil {
+  color: red;
+  text-align: center;
+}
+
+#audry {
+  color: blue;
+  font-weight: lighter;
+}
+
+.bg-black {
+  background-color: black;
+  height: 500px;
+  /* SPACING DI DALAM */
+  padding: 20px;
+  /* SPACING DI LUAR */
+  margin-bottom: 300px;
+}
+
+.bg-blue {
+  height: 500px;
+  background: url("./assets/aqua.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
